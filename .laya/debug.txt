@@ -13,7 +13,7 @@ Project configuration:/Users/kaoputou/Documents/AmazingShot/.actionScriptPropert
 1,0.00,/Users/kaoputou/Documents/AmazingShot/libs/laya/src,0,Collect
 1,2.00,,0,read class message
 1,89.95,,0,Disable Flash3D /Users/kaoputou/Documents/AmazingShot/src/LayaUISample.as
-12,89.95,/Users/kaoputou/Documents/AmazingShot/bin/h5/LayaUISample.max.js,1171230,
+12,89.95,/Users/kaoputou/Documents/AmazingShot/bin/h5/LayaUISample.max.js,884491,
 11,89.95,/Users/kaoputou/Documents/AmazingShot/bin/h5/LayaUISample.max.html,895,
 ******************************************************************************
 14,89.95,,0,

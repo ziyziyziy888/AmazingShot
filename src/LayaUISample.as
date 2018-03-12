@@ -3,13 +3,16 @@
 	import laya.net.ResourceVersion;
 	import laya.utils.Handler;
 	import view.TestView;
-	import laya.webgl.WebGL;
+	import laya.wx.mini.MiniAdpter;
 	
 	public class LayaUISample {
 		
 		public function LayaUISample() {
+			//初始化微信小游戏
+			MiniAdpter.init();
+
 			//初始化引擎
-			Laya.init(600, 400,WebGL);
+			Laya.init(600, 400);
 			
 			//激活资源版本控制
             ResourceVersion.enable("version.json", Handler.create(this, beginLoad), ResourceVersion.FILENAME_VERSION);
